@@ -57,7 +57,7 @@
   <img width="12" />
 
   <!-- AWS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
+  <img src="https://imgs.search.brave.com/PV6y8S0SRNoYNLzwyYjgM0IeHKqIq5mnArwlld9uU8A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZWdp/c3RyeS5ucG1taXJy/b3IuY29tL0Bsb2Jl/aHViL2ljb25zLXN0/YXRpYy1wbmcvbGF0/ZXN0L2ZpbGVzL2Rh/cmsvYXdzLWNvbG9y/LnBuZw" height="40" alt="AWS logo" />
   <img width="12" />
 
   <!-- Postman -->
