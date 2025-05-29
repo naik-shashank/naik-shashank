@@ -14,7 +14,6 @@
 ✨ Creating bugs since 2022<br>
 📚 I'm currently learning AWS, Java, and enhancing my DSA skills<br>
 🎯 Goals: To be a real-world problem solver through code<br>
-🎲 Fun fact: I don't get mad 😄
 </p>
 
 ###
