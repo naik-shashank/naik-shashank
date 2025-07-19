@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shashank (aka Shanks) and I'm a Full-Stack Developer (backend-biased) & Computer Science student from Bengaluru, India.</p>
+<p align="left">My name is Shashank (aka Shanks) and I'm a Developer (backend-biased) & Computer Science student from Bengaluru, India.</p>
 
 ###
 
